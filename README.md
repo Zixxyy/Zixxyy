@@ -4,8 +4,8 @@
 <br><br>
 <pre>
       • Game Developer • Software Developer
-      • C#, C++, Vim, Unity Engine, Unix Based Systems. 
-      • <a href="https://zixxyy.github.io/Landing/">My Landing</a>. You can better understand what I am capable of over here.
+      • C, C#, C++, Vim, Unity Engine, Unix Based Systems. 
+      • <a href="https://zixxyy.github.io/Landing/">My Landing</a>. You can better understand what i am capable of over here.
 </pre>
 <br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
