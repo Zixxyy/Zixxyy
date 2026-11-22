@@ -5,7 +5,8 @@
 <pre>
       • Software Developer
       • C, C#, C++, Nvim, Unity Engine, Unix Based Systems. 
-      • <a href="https://zixxyy.github.io/Landing/">My Landing</a>. You can better understand what I am capable of here, also keep in your mind there is quite a bit of text.
+      • <a href="https://zixxyy.github.io/Landing/">My Landing</a>. You can better understand what I am capable of here
+      also keep in your mind there is quite a bit of text.
 </pre>
 <br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
