@@ -3,9 +3,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Zixxy%2C+a+fumo+engineer+%E2%9C%A9" width="70%" />
 <br><br>
 <pre>
-      • Game Developer • Software Developer
-      • C, C#, C++, Vim, Unity Engine, Unix Based Systems. 
-      • <a href="https://zixxyy.github.io/Landing/">My Landing</a>. You can better understand what i am capable of over here.
+      • Software Developer
+      • C, C#, C++, Nvim, Unity Engine, Unix Based Systems. 
+      • <a href="https://zixxyy.github.io/Landing/">My Landing</a>. You can better understand what I am capable of here, also keep in your mind there is quite a bit of text.
 </pre>
 <br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
